@@ -1,0 +1,5 @@
+Learning Progress
+
+Udacity
+Intro to Java Programming - Completed Lesson 1
+Data Analysis with R - Completed Lesson 1
